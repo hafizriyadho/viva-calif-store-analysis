@@ -2,7 +2,7 @@
 
 <img width="433" height="234" alt="Viva Calif Store Analysis" src="https://github.com/user-attachments/assets/c9e1ef81-b80d-40b0-951e-62d6fb4b3fd6" />
 
-data source: chandoo youtube channel
+data source: kaggle
 
 ## 📌 Project Overview
 
